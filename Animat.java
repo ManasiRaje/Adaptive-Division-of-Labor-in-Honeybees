@@ -12,6 +12,7 @@ import com.jme3.scene.shape.Sphere;
  *
  * @author Manasi Deshmukh
  */
+ 
 public class Animat {
     
     public static enum Type {
