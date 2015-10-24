@@ -6,6 +6,7 @@ import com.jme3.scene.Spatial;
  *
  * @author Manasi Deshmukh
  */
+ 
 public interface Signal {
     public enum Type{
         UNEMPLOYED_BECOME_STORER,
